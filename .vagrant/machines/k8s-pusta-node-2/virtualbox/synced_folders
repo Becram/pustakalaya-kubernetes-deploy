@@ -1,0 +1,1 @@
+{"virtualbox":{"/library":{"guestpath":"/library","hostpath":"/library","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/olenepal/vagrant_workplace/pustakalaya-kubernetes-deploy","disabled":false,"__vagrantfile":true}}}
